@@ -31,9 +31,9 @@ export default {
 
 <style>
 .servicios {
-  color: #ffffff;
+  color:  rgba(255, 255, 255, 0.2);
   background-color: #2b0447;
-  font-size: 2rem;
+  font-size: 6rem;
   position: relative;
   top: 4.5rem;
   display: flex;

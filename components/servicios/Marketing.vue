@@ -22,8 +22,9 @@ export default {
 };
 </script>
 
-<style lang="css" scoped>
-.is-list {
-  padding-left: 2rem;
+<style lang="css">
+li {
+  font-weight: 500;
+  color: #000000;
 }
 </style>

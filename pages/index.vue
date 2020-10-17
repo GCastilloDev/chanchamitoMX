@@ -14,7 +14,7 @@
 export default {
   name: "HomePage",
   head: {
-    titleTemplate: "PRUEBA",
+    titleTemplate: "Chanchamito MX",
   },
   components: {
     Banner: () => import("../components/Banner"),
