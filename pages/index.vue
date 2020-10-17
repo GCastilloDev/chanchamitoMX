@@ -2,6 +2,7 @@
   <div>
     <banner />
     <nosotros />
+    <servicios />
 
     <section class="section">
       <h1>Bienvenido</h1>
@@ -18,6 +19,7 @@ export default {
   components: {
     Banner: () => import("../components/Banner"),
     Nosotros: () => import("../components/Nosotros"),
+    Servicios: () => import("../components/Servicios"),
   },
 };
 </script>

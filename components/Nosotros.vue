@@ -48,6 +48,7 @@ export default {};
   transform: translate(-50%, -50%);
   font-size: 14rem;
   font-weight: 700;
+  color: #2b0447;
   opacity: 0.1;
 }
 
